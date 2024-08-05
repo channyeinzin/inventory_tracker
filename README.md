@@ -11,14 +11,3 @@ This is an Inventory Management application built using [Next.js](https://nextjs
 ## Getting Started
 
 First, clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/your-repo/inventory-management-app.git
-cd inventory-management-app
-npm install
-# or
-yarn install
-# or
-pnpm install
-# or
-bun install
